@@ -4,7 +4,7 @@
 Developed an interactive retail sales and profit analysis dashboard using Microsoft Excel, leveraging Pivot Tables and slicers to analyze sales, profit, and performance trends.
 
 ## 🛠 Tools & Techniques
-- Microsoft Excel
+- Microsoft Excel,SQL,Pandas
 - Pivot Tables & Pivot Charts
 - Slicers for dynamic filtering
 - KPI Design
